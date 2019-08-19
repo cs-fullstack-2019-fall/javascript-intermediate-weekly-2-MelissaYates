@@ -1,3 +1,9 @@
+You actually got off to a good start, however you never loaded your Question instance into an array so you could choose a random one.
+
+Do some review on JavaScript classes: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+
+
 # Build a Simple Quiz Program
 
 ## Weekly Project (Total 10 points)
